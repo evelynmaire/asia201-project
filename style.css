@@ -86,7 +86,7 @@ a {
 }
 
 a:hover {
-    color: #fff;
+    color: #0A1426;
     border: none;
 }
 
@@ -97,7 +97,7 @@ strong {
 }
 
 abbr {
-    border-bottom: 0px dotted #d2c5d9;
+    border-bottom: 0px dotted #3B6583;
     cursor: help;
 }
 
@@ -297,7 +297,8 @@ footer {
 /* The actual timeline (the vertical ruler) */
 .timeline {
   position: relative;
-  max-width: 1200px;
+  /*max-width: 1200px;*/
+  max-width: 100%;
   margin: 0 auto;
 }
 
