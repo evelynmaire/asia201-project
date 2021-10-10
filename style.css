@@ -18,6 +18,16 @@ body {
     z-index: 1;
 }
 
+hr {
+    display:block;
+    border:0px;
+    height:50px;
+    background-image:url('images/hr.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    margin:10vh;
+}
+
 .main h1 {
     font-family: 'Playfair Display', serif;
     font-size: 3em;
@@ -34,12 +44,12 @@ body {
 
 .main h2 {
     font-family: 'Playfair Display', serif;
-    font-size: 1em;
-    color: #d2c5d9;
-    text-shadow: 1px 1px #4b3159;
+    font-size: 1.5em;
+    color: #005158;
+    text-shadow: 1px 1px #fff;
     font-style: italic;
-    text-align: right;
-    margin: 0px;
+    text-align: left;
+    margin-top: 40px;
     padding: 0px;
 }
 
@@ -62,21 +72,25 @@ body {
   margin: 0;
 }
 
+.video {
+text-align:center;
+}
+
 a {
-    color: #d2c5d9;
-    text-shadow: 1px 1px #4b3159;
+    color: #3B6583;
+    /*text-shadow: 1px 1px #fff;*/
     text-decoration: none;
-    border-bottom: 1px dotted #d2c5d9;
+    border-bottom: 1px dotted #3B6583;
 }
 
 a:hover {
-    color: #7f5f91;
+    color: #fff;
     border: none;
 }
 
 strong {
-    color: #7f5f91;
-    text-shadow: 1px 1px #4b3159;
+    color: #1D4259;
+    text-shadow: 1px 1px #fff;
     font-weight: bold;
 }
 
@@ -244,22 +258,6 @@ blockquote p {
     font-size: 14px;
 }
 
-.site img {
-    border: 5px #291d2f;
-}
-
-.site a {
-    color: #1D4259;
-    font-size: 1.65em;
-    text-decoration: none;
-    border-bottom: none;
-    text-shadow: 1px 1px #7f5f91;
-}
-
-.site a:hover {
-    color: #7f5f91;
-    text-shadow: 1px 1px #2a1d2f;
-}
 
 #pdf,
 #introduction,
@@ -280,18 +278,6 @@ footer {
     padding: 10vh;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
