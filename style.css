@@ -25,7 +25,7 @@ hr {
     background-image:url('images/hr.png');
     background-repeat: no-repeat;
     background-position: center top;
-    margin:10vh;
+    margin:10vh 10vh 0vh 10vh;
 }
 
 .main h1 {
@@ -73,7 +73,9 @@ hr {
 }
 
 .video {
-text-align:center;
+  text-align:center;
+  text: #808080 !important;
+  font-size: 0.7em;
 }
 
 a {
@@ -260,6 +262,15 @@ blockquote .twitter-tweet {
     background: url(images/menubg.jpg);
     font-family: 'Playfair Display', serif;
     font-size: 14px;
+}
+
+.inline {
+  text-align: center;
+}
+
+.inline-img {
+  max-width: 40%;
+    height: auto;
 }
 
 
