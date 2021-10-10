@@ -123,6 +123,10 @@ blockquote p {
     display: inline;
 }
 
+blockquote .twitter-tweet {
+    background: #fff;
+}
+
 .fade {
     filter: grayscale(100%);
     transition: 1s;
