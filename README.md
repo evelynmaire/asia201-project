@@ -3,10 +3,15 @@
 Project for ASIA201 paper at the University of Otago 2021.
 
 Declaration: I confirm that this assignment meets the requirements of the University’s Academic Integrity Policy. I declare that it is entirely my own work, that all sources have been properly acknowledged, and that I have not previously submitted this work, or any version of it, for assessment in any other paper.” 
+
 Student Name: Evelyn F.
+
 Student ID: [redacted] 
+
 Paper number: ASIA201
+
 Assignment No: Final Project
+
 Date: 11/10/2021
 
 Current version: 1.0
