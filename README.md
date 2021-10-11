@@ -2,7 +2,7 @@
 
 Project for ASIA201 paper at the University of Otago 2021.
 
-Current version: 1.0
+![Current Verion: 1.0](https://img.shields.io/badge/current%20version-1.0-blue "Current Verion: 1.0")
 
 **Declaration:** I confirm that this assignment meets the requirements of the University’s Academic Integrity Policy. I declare that it is entirely my own work, that all sources have been properly acknowledged, and that I have not previously submitted this work, or any version of it, for assessment in any other paper.
 
